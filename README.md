@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Felipehsilva
 - 👀 I’m interested in Data Science, Python,R, Machine Learning, Data Analytics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science projects soon.
+- 🌱 Visit my Portfolio website https://dataineverywhere.ct.ws/
 - 📫 How to reach me : Linked in https://www.linkedin.com/in/felipehenriquedasilva/
 
 <!---
