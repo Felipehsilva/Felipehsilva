@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felipe Henrique da Silva 
 
-### Data Scientist | Machine Learning | Python & Statistics
+### Data Scientist | Machine Learning | Python | Statistics
 
 I am a data professional dedicated to extracting actionable intelligence from complex data. I specialize in building end-to-end Data Science solutions—from statistical analysis and feature engineering to deploying high-impact Machine Learning models that solve real business problems.
 
