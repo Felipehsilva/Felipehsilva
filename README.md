@@ -10,27 +10,32 @@ I am a data professional dedicated to extracting actionable intelligence from co
 
 Each project below includes a **Case Study** (business strategy & results) and the **Source Code** (technical implementation).
 
-### 1. 🛡️ Insurance Cross-Sell Strategy
+### 1. 📈 nergy Hedge Strategy — Predictive System for Strategic Energy 
+Data Science pipeline that **reduced energy consumption forecasting error by 83%** (MAPE 11.99% → 2.00%), enabling a retail chain to make data-driven hedge contract decisions and protect millions in annual energy costs.
+* 🔗 [Case Study & Business Impact]([https://dataineverywhere.ct.ws/projects/sales-forecasting-for-rossmann-stores-using-machine-learning/](https://dataineverywhere.ct.ws/projects/energy-hedge-strategy-how-a-predictive-system-protects-millions-in-energy-costs/))
+* 💻 [GitHub Repository](https://github.com/Felipehsilva/Energy_Strategy_Time_Series)
+
+### 2. 🛡️ Insurance Cross-Sell Strategy
 Developed a Propensity Scoring model that **tripled sales team efficiency** by identifying high-potential customers for auto insurance.
 * 🔗 [Case Study & Business Impact](https://dataineverywhere.ct.ws/projects/insurance-cross-sell-strategy-how-data-science-tripled-the-sales-teams-efficiency/)
 * 💻 [GitHub Repository](https://github.com/Felipehsilva/p4004_health_insurance)
 
-### 2. 📈 Rossmann Store Sales Forecasting
+### 3. 📈 Rossmann Store Sales Forecasting
 Created a high-precision predictive model for 1,100+ stores to optimize inventory management and financial planning using XGBoost and Time Series analysis.
 * 🔗 [Case Study & Business Impact](https://dataineverywhere.ct.ws/projects/sales-forecasting-for-rossmann-stores-using-machine-learning/)
 * 💻 [GitHub Repository](https://github.com/Felipehsilva/ds_em_producao)
 
-### 3. ⚙️ Hardware Retail Analysis (SQL & EDA)
+### 4. ⚙️ Hardware Retail Analysis (SQL & EDA)
 Built a robust data infrastructure to automate the extraction of vital KPIs such as Churn Rate and Average Ticket, providing a 360-degree view of retail performance.
 * 🔗 [Case Study & Business Impact](https://dataineverywhere.ct.ws/projects/hardware-retail-data-engineering-using-sql/)
 * 💻 [GitHub Repository](https://github.com/Felipehsilva/SQL_Oracle)
 
-### 4. 🏠 House Rocket Investment Strategy
+### 5. 🏠 House Rocket Investment Strategy
 Designed a data-driven framework to identify undervalued properties and maximize real estate investment returns through Exploratory Data Analysis (EDA) and Hypothesis Testing.
 * 🔗 [Case Study & Business Impact](https://dataineverywhere.ct.ws/projects/house-rocket-case-data-driven-real-estate-investment-strategy-with-python/)
 * 💻 [GitHub Repository](https://github.com/Felipehsilva/pp1-house_rocket)
 
-### 5. 🕷️ Market Web Scraper & Pricing
+### 6. 🕷️ Market Web Scraper & Pricing
 Developed an automated data collection tool for competitive analysis and dynamic pricing strategies, using Web Scraping to monitor real-time market trends.
 * 🔗 [Case Study & Business Impact](https://dataineverywhere.ct.ws/projects/building-a-web-scraper-for-market-analysis/)
 * 💻 [GitHub Repository](https://github.com/Felipehsilva/hm_webscrapping)
